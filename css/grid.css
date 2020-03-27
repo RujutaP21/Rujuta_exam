@@ -2,8 +2,20 @@
     box-sizing: border-box;
 }
 
+body{
+    margin: auto;
+    max-width: 1080px;
+    border: 1px solid beige;
+    border-bottom: none;
+}
 .container{
     display: flex;
     flex-direction: row;
-;
+    justify-content: space-evenly;
+    padding: 1em 0 1em 0;
+    flex-wrap: wrap;
+}
+
+img{
+    padding: 1em;
 }
