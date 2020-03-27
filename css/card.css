@@ -40,6 +40,8 @@ button{
     background-color: #ff5e43;
     color: #f6f6f6;
     text-align: center;
+    border: none;
     padding: 1em 5em 1em 5em;
+    cursor: pointer;
 }
 
