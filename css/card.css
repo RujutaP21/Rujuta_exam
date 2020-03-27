@@ -33,7 +33,7 @@ img{
     border-radius: 0 0px 10px 10px;
 }
 
-button{
+.button{
     position: absolute;
     margin-top: 23em;
     margin-left: -19.5em;
