@@ -5,7 +5,7 @@
 body{
     margin: auto;
     max-width: 1080px;
-    border: 1px solid beige;
+    border: 1px solid #fafafa;
     border-bottom: none;
 }
 .container{
@@ -17,5 +17,5 @@ body{
 }
 
 img{
-    padding: 1em;
+    padding: 0.75em;
 }
